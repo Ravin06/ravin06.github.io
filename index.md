@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Ravin's Website
 
-You can use the [editor on GitHub](https://github.com/Ravin06/Ravin06.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Ravin and this is my website.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
